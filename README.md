@@ -98,3 +98,14 @@ Refernces Have refered google for some part of coding and information
 
 [![CI](https://github.com/pravallika71/M1_Movie-Ticket-Booking_UTIL/actions/workflows/CI.yml/badge.svg)](https://github.com/pravallika71/M1_Movie-Ticket-Booking_UTIL/actions/workflows/CI.yml)
 
+## Codiga and Codacy Badges
+
+![Code QualityScore](https://api.codiga.io/project/32213/score/svg)
+
+![Code Grade](https://api.codiga.io/project/32213/status/svg)
+
+
+## Code Inspector
+
+![Screenshot (7)](https://user-images.githubusercontent.com/101494967/160803599-585e8727-49a7-4f45-907d-1dba5e0f5ae4.png)
+
