@@ -86,6 +86,10 @@ Refernces Have refered google for some part of coding and information
 
 [![Build Windows](https://github.com/pravallika71/M1_Movie-Ticket-Booking_UTIL/actions/workflows/Windows.yml/badge.svg)](https://github.com/pravallika71/M1_Movie-Ticket-Booking_UTIL/actions/workflows/Windows.yml)
 
+## Build Linux
+
+[![Build Linux](https://github.com/pravallika71/M1_Movie-Ticket-Booking_UTIL/actions/workflows/Linux.yml/badge.svg)](https://github.com/pravallika71/M1_Movie-Ticket-Booking_UTIL/actions/workflows/Linux.yml)
+
 ## CI
 
 [![CI](https://github.com/pravallika71/M1_Movie-Ticket-Booking_UTIL/actions/workflows/CI.yml/badge.svg)](https://github.com/pravallika71/M1_Movie-Ticket-Booking_UTIL/actions/workflows/CI.yml)
