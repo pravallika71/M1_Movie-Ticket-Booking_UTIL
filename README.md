@@ -82,3 +82,7 @@ Movie Ticket Booking System have few inbuilt features like
 Refernces Have refered google for some part of coding and information
 -->
 
+## CI
+
+[![CI](https://github.com/pravallika71/M1_Movie-Ticket-Booking_UTIL/actions/workflows/CI.yml/badge.svg)](https://github.com/pravallika71/M1_Movie-Ticket-Booking_UTIL/actions/workflows/CI.yml)
+
