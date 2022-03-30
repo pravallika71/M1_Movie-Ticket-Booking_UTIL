@@ -82,6 +82,8 @@ Movie Ticket Booking System have few inbuilt features like
 Refernces Have refered google for some part of coding and information
 -->
 
+# SDLC Activity Based Learning
+
 ## Build Windows
 
 [![Build Windows](https://github.com/pravallika71/M1_Movie-Ticket-Booking_UTIL/actions/workflows/Windows.yml/badge.svg)](https://github.com/pravallika71/M1_Movie-Ticket-Booking_UTIL/actions/workflows/Windows.yml)
@@ -104,6 +106,7 @@ Refernces Have refered google for some part of coding and information
 
 ![Code Grade](https://api.codiga.io/project/32213/status/svg)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c2cd77c3f8ac41989f22bf99fb9a5c67)](https://www.codacy.com/gh/pravallika71/M1_Movie-Ticket-Booking_UTIL/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pravallika71/M1_Movie-Ticket-Booking_UTIL&amp;utm_campaign=Badge_Grade)
 
 ## Code Inspector
 
