@@ -96,6 +96,10 @@ Refernces Have refered google for some part of coding and information
 
 [![Valgrind](https://github.com/pravallika71/M1_Movie-Ticket-Booking_UTIL/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/pravallika71/M1_Movie-Ticket-Booking_UTIL/actions/workflows/Valgrind.yml)
 
+## Unit Testing
+
+[![Unit Testing](https://github.com/pravallika71/M1_Movie-Ticket-Booking_UTIL/actions/workflows/Testiung.yml/badge.svg)](https://github.com/pravallika71/M1_Movie-Ticket-Booking_UTIL/actions/workflows/Testiung.yml)
+
 ## CI
 
 [![CI](https://github.com/pravallika71/M1_Movie-Ticket-Booking_UTIL/actions/workflows/CI.yml/badge.svg)](https://github.com/pravallika71/M1_Movie-Ticket-Booking_UTIL/actions/workflows/CI.yml)
